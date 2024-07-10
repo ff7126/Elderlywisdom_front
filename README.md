@@ -1,5 +1,6 @@
 # Project Introduction
 本项目为北京交通大学软件学院2024年小学期第三组开发的智慧养老系统前端
+项目成员：刘逍、曹帆、丁宇涵、刘明鑫、李冉
 ```
 
 ## Project setup
@@ -27,5 +28,3 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
