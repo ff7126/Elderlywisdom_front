@@ -1,3 +1,7 @@
+# Project Introduction
+本项目为北京交通大学软件学院2024年小学期第三组开发的智慧养老系统前端
+```
+
 ## Project setup
 ```
 yarn install
